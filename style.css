@@ -1,0 +1,260 @@
+*{
+    margin: 0%;
+}
+.header_part{
+    display: flex;
+    background-color: rgb(247, 228, 232);
+    line-height:1.2;
+    height: 410px; 
+}
+.header_part h1{
+    font-weight: bolder;
+}
+.shop_now{
+    font-family:Arial, Helvetica, sans-serif ;
+    /* margin: 100px; */
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.header_part p{
+    line-height: 1.6;
+    max-width:82%;
+}
+.header_part input{
+    background-color: rgb(211, 28, 65);
+    color: white;
+    height: 30px;
+    border: none;
+    width: 80px;
+    border-radius: 5px;
+}
+.header_img{
+    
+    margin-top: 20px;
+    margin-right: 210px;
+    width: 40%;
+}
+.featuredflowers{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 70px;
+    
+}
+.featuredflowers h1{
+    font-weight: bold;
+
+}
+.chose_flowers{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 346px;
+    width: 700px;
+    gap: 25px;
+}
+.pink_flower{
+    height: 230px;
+    background-color: rgb(246, 212, 246);
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    width: 200px;
+    margin-left: 4.5px;
+    
+    
+}
+.pink_flower img{
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.pink_flower a{
+    margin-top: 10px;
+    margin-left: 50px;
+    color: black;
+}
+
+.skyblue_flower{
+    height: 230px;
+    background-color: rgb(217, 248, 248);
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    margin-left: 19px;
+    width: 200px;  
+}
+.skyblue_flower img{
+    margin-top: 40px;
+    margin-left: 15px;
+}
+.skyblue_flower a{
+    margin-bottom: 10px;
+    margin-left: 50px;
+    color: black;
+}
+.yellow_flower{
+    height: 230px;
+    background-color:rgb(198, 224, 198);
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    margin-left: 19px;
+    width: 200px; 
+}
+.yellow_flower img{
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.yellow_flower a{
+    margin-top: 10px;
+    margin-left: 50px;
+    color: black;
+}
+.service{
+    display: flex;
+    margin: 90px 310px 30px 350px;
+    background-color:rgb(237, 236, 236);
+    height: 170px; 
+}
+
+.Delivery img{
+    margin-top: 40px;
+    margin-left: 155px;
+}
+.Delivery p{
+    margin-left: 45px;
+    max-width: 100%;
+}
+.Fresh_Flowers img{
+    margin-top: 40px;
+    margin-left: 95px;
+}
+.Fresh_Flowers p{
+    margin-left: 40px;
+}
+.Free_Support img{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.Free_Support p{
+    
+    margin-left: 40px;
+}
+.discount{
+    display: flex;
+    background-color: rgb(251, 234, 238);
+    line-height:1.6;
+    height: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 60px; 
+}
+.discount h2{
+    font-weight: bold;
+    margin-left: 15px;
+}
+.discount_titel{
+    color: crimson;
+}
+.discount_content{
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.discount p{
+    line-height: 1.4;
+    max-width:100%;
+}
+.pra2{
+    margin-left: 100px;
+}
+
+.discount input{
+    background-color: rgb(211, 28, 65);
+    color: white;
+    height: 30px;
+    border: none;
+    width: 80px;
+    border-radius: 5px;
+    margin-left: 180px;
+}
+.discount_img{
+    margin-top: 40px;
+    margin-left: 100px;   
+}
+.Instagram {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 70px;
+    
+}
+.Instagram h1{
+    font-weight: bold;
+}
+.Instagram_flowers{
+    display: flex;
+    margin-top: 30px;
+    /* margin-left: 350px; */
+    margin: auto;
+    width: 700px;
+    margin-top: 30px;
+
+    
+}
+.insta_img2{
+    margin-left: 10px;
+}
+.insta_img3{
+    margin-left: 10px;
+}
+.insta_img4{
+    margin-left: 10px;
+}
+
+.latestDeals {
+    width: 700px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    height: 200px;
+    justify-content: center;
+    margin-top: 60px;
+    background-image: url(Rectangle\ 9.png);
+}
+.latestDeals h2{
+    margin-top: 20px;
+}
+
+.latestDeals_input1{
+    height: 30px;
+    border: none;
+    width: 300px;
+    border-radius: 5px;
+}
+.latestDeals_input2 {
+    background-color: rgb(211, 28, 65);
+    color: white;
+    height: 30px;
+    border: none;
+    width: 80px;
+    border-radius: 5px;
+}
+.flowershop{
+    color: white;
+    background-color: black;
+    height: 100px;
+    text-align: center;
+    margin-top: 70px;
+    padding: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#footer-h5{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+#footer-h6{
+    opacity: 0.3;
+}
+#footer-title{
+color: crimson;
+}
+.section{
+    max-width: 100%;
+}
